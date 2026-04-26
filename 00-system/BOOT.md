@@ -31,3 +31,4 @@ Always write Daniel state only inside `/workspace/prophetdaniel-openclaw`.
 For new TradingView, thinkorswim, Dean, Discord, Twitter/X, or Victor updates, follow `00-system/INGESTION.md`.
 
 For trading risk rules, follow `00-system/RISK.md`.
+
