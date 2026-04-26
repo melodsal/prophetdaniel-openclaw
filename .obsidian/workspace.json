@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ee39b013c720d1bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e404a374b56cf0d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a48afee838b47c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27f247575bfae3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "338e87b4b30c9602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d597ff2cd0227c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78829027cfd75dd9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09c31c4b849618cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41223683da5486bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0febaeeb95caceae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11f9fd38fd7860d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c4f29e4386596abd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7f2ac8b8a4422b1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17602106ff16f54d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "219d5043a722f92d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "62a48afee838b47c",
+  "lastOpenFiles": [
+    "08-ingest/inbox.md",
+    "07-journal/lessons.md",
+    "07-journal/mistakes.md",
+    "07-journal/trade-journal.md",
+    "06-alerts/alert-inbox.md",
+    "06-alerts/twitter-dean.md",
+    "06-alerts/discord-dean.md",
+    "06-alerts/thinkorswim-notes.md",
+    "06-alerts/tradingview-alerts.md",
+    "05-market-notes/macro.md",
+    "05-market-notes/weekly-review.md",
+    "05-market-notes/daily-pm.md",
+    "05-market-notes/daily-am.md",
+    "04-positions/p-and-l.md",
+    "04-positions/closed-trades.md",
+    "04-positions/open-positions.md",
+    "03-accounts/42Macro.md",
+    "03-accounts/FactorPortfolio.md",
+    "03-accounts/TradingAccount.md",
+    "02-playbooks/post-trade-review.md",
+    "02-playbooks/alert-response.md",
+    "02-playbooks/stop-loss-rules.md",
+    "02-playbooks/exit-rules.md",
+    "02-playbooks/entry-setups.md",
+    "01-indexes/tasks.md",
+    "01-indexes/open-questions.md"
+  ]
+}
