@@ -29,7 +29,7 @@ Required updates:
 
 Schedule:
 
-- Weekdays, 1:30 PM America/Los_Angeles
+- Weekdays, 12:00 PM America/Los_Angeles
 
 Purpose:
 

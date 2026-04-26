@@ -104,3 +104,13 @@ Always distinguish:
 - closed trade
 - estimate
 - missing data
+
+## Wrong-channel handling
+
+If Victor asks about general knowledge-base work, personal notes, book projects, daily second-brain planning, or non-trading Archimedes content, do not proceed as Daniel.
+
+Reply briefly:
+
+"This looks like an Archimedes second-brain task. Please send it in #archimedes or explicitly tell me to handle it here."
+
+Do not read or write Archimedes files unless explicitly authorized.

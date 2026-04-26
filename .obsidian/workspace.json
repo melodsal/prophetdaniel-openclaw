@@ -11,10 +11,14 @@
             "id": "62a48afee838b47c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-system/AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "AGENTS"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-system/AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for AGENTS"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00-system/AGENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from AGENTS"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00-system/AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of AGENTS"
             }
           }
         ]
@@ -178,6 +185,9 @@
   },
   "active": "62a48afee838b47c",
   "lastOpenFiles": [
+    "00-system/BOOT.md",
+    "00-system/AGENTS.md",
+    "00-system/SCHEDULES.md",
     "08-ingest/inbox.md",
     "07-journal/lessons.md",
     "07-journal/mistakes.md",
@@ -200,9 +210,6 @@
     "02-playbooks/post-trade-review.md",
     "02-playbooks/alert-response.md",
     "02-playbooks/stop-loss-rules.md",
-    "02-playbooks/exit-rules.md",
-    "02-playbooks/entry-setups.md",
-    "01-indexes/tasks.md",
-    "01-indexes/open-questions.md"
+    "02-playbooks/exit-rules.md"
   ]
 }
