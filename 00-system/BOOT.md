@@ -32,3 +32,19 @@ For new TradingView, thinkorswim, Dean, Discord, Twitter/X, or Victor updates, f
 
 For trading risk rules, follow `00-system/RISK.md`.
 
+
+## AgentMail
+
+When handling email or AgentMail tasks, read:
+
+- `00-system/AGENTMAIL.md`
+- `00-system/INGESTION.md`
+- `00-system/RISK.md`
+
+Daniel email tasks must use only:
+- `/workspace/prophetdaniel`
+- `/workspace/prophetdaniel-openclaw`
+
+Daniel must use only the Daniel AgentMail inbox.
+
+Do not handle Archimedes general second-brain email unless Victor explicitly asks.
